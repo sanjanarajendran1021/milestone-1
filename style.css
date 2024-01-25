@@ -1,0 +1,112 @@
+
+body{
+    font-family:'lato';
+}
+.footerlinks{
+    padding:30px;
+}
+.para{
+    font-family: 'lato';
+    font-size:17px;
+    line-height: 34px;
+    text-align: justify;
+}
+.navbarnav{
+    background-image:linear-gradient(rgb(21, 2, 117),rgb(20, 65, 154));
+    font-family:'lato';
+    font-size: 18px;
+}
+.nav-link {
+    color:white;
+}
+.navbar-brand{
+    color:white;
+}
+.footers{
+    background-image:linear-gradient(rgb(40, 39, 39),rgb(32, 31, 31));
+}
+.footers p{
+    color:rgb(170, 170, 170);
+}
+
+.footers {
+    color:black;
+}
+.about{
+    background-color: rgb(241, 239, 239);
+}
+.top{
+    background-color: rgb(230, 229, 229);
+    margin-top:50px;
+    text-align: center;
+}
+.top h3{
+    font-family:'DM Serif Display', serif;
+    font-size: 43px;
+}
+.top h2{
+    font-family:'DM Serif Display', serif;
+    font-size: 34px;
+}
+.top-para{
+    font-family: 'lato';
+    font-size:16px;
+    line-height:30px;
+}
+.top-content{
+    font-family:'DM Serif Display', serif;
+    font-size: 45px;
+    padding-top:30px;
+}
+.img1{
+    height:640px;
+}
+
+.top-content h2{
+    font-family:'DM Serif Display', serif;
+    font-size: 45px;
+    padding:30px;
+}
+.sol{
+    font-family:'DM Serif Display', serif;
+    font-size: 30px;
+}
+
+.cards{
+    margin-left:50px;
+    margin-bottom:20px;
+}
+.card-text{
+    font-family:'lato';
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.paragender{
+    text-align: justify;
+    
+}
+/* .genderimg{
+    margin-left:90px;
+} */
+.imgindex{
+    transition: scale 0.6s;
+}
+.imgindex:hover{
+   scale:1.1;
+}
+.contact{
+    font-family: 'lato';
+    font-size: 20px;
+}
+.solutions{
+    background-color:rgb(240, 240, 224);
+    text-align: justify;
+}
+
+.contactform{
+    font-family: 'lato';
+    font-size: 20px;
+}
